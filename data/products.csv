@@ -1,0 +1,103 @@
+sku,product_name,brand,category,pack_size,mrp,selling_price,cost_price,case_pack,supplier_id,shelf_location,is_perishable,aliases
+SKU1001,Aashirvaad Whole Wheat Atta 5kg,Aashirvaad,Staples,5 kg,285,285.0,245.65,5,S01,A-01,False,atta|aata|gehu ka atta|wheat flour|aashirvaad
+SKU1002,Aashirvaad Whole Wheat Atta 10kg,Aashirvaad,Staples,10 kg,545,545.0,455.14,2,S01,A-02,False,atta 10kg|bada atta|aata 10 kilo
+SKU1003,Fortune Sunflower Oil 1L,Fortune,Staples,1 L,165,165.0,143.33,12,S01,A-03,False,sunflower oil|refined oil|tel|fortune oil
+SKU1004,Fortune Kachi Ghani Mustard Oil 1L,Fortune,Staples,1 L,185,185.0,158.32,12,S01,A-04,False,sarson ka tel|mustard oil|kachi ghani
+SKU1005,Saffola Gold Oil 1L,Saffola,Staples,1 L,210,210.0,169.58,12,S01,A-05,False,saffola|saffola oil|healthy oil
+SKU1006,Tata Salt 1kg,Tata,Staples,1 kg,28,28.0,24.59,25,S01,A-06,False,namak|salt|tata namak
+SKU1007,India Gate Basmati Rice 1kg,India Gate,Staples,1 kg,145,145.0,124.83,10,S01,A-07,False,chawal|rice|basmati
+SKU1008,Tata Sampann Toor Dal 1kg,Tata Sampann,Staples,1 kg,195,195.0,168.26,10,S01,A-08,False,arhar dal|toor dal|tuvar dal|dal
+SKU1009,Tata Sampann Moong Dal 1kg,Tata Sampann,Staples,1 kg,175,175.0,141.79,10,S01,A-09,False,moong dal|dhuli moong|moong
+SKU1010,Madhur Sugar 1kg,Madhur,Staples,1 kg,55,55.0,45.98,20,S01,A-10,False,cheeni|chini|sugar|shakkar
+SKU1011,Rajdhani Besan 500g,Rajdhani,Staples,500 g,75,75.0,62.22,20,S01,A-11,False,besan|gram flour|chana atta
+SKU1012,Rajdhani Suji 500g,Rajdhani,Staples,500 g,45,45.0,39.34,20,S01,A-12,False,suji|sooji|rava|semolina
+SKU1013,Rajdhani Poha 500g,Rajdhani,Staples,500 g,50,50.0,42.58,20,S01,A-13,False,poha|chivda|flattened rice
+SKU1014,Tata Tea Premium 250g,Tata,Staples,250 g,150,150.0,129.87,24,S01,A-14,False,chai patti|tea|tata chai|tata tea
+SKU1015,Red Label Tea 250g,Brooke Bond,Staples,250 g,145,145.0,121.14,24,S01,A-15,False,red label|chai|tea
+SKU1016,Nescafe Classic Coffee 50g,Nescafe,Staples,50 g,190,190.0,155.45,12,S01,A-16,False,coffee|nescafe|kaafi
+SKU1017,Everest Garam Masala 100g,Everest,Staples,100 g,90,90.0,75.99,20,S01,A-17,False,garam masala|masala
+SKU1018,MDH Chana Masala 100g,MDH,Staples,100 g,85,85.0,68.43,20,S01,A-18,False,chana masala|chole masala
+SKU1019,Catch Turmeric Powder 100g,Catch,Staples,100 g,40,40.0,34.65,20,S01,A-19,False,haldi|turmeric
+SKU1020,Everest Red Chilli Powder 100g,Everest,Staples,100 g,45,45.0,38.27,20,S01,A-20,False,lal mirch|red chilli|mirchi powder
+SKU1021,Maggi 2-Minute Masala Noodles 70g,Maggi,Packaged Foods,70 g,15,15.0,12.91,48,S02,B-01,False,maggi|maggie|noodles|maggi masala
+SKU1022,Maggi 2-Minute Masala Noodles 4-Pack 280g,Maggi,Packaged Foods,280 g,56,56.0,46.39,12,S02,B-02,False,maggi family pack|maggi 4 pack|bada maggi
+SKU1023,Maggi Atta Noodles 72g,Maggi,Packaged Foods,72 g,25,25.0,21.94,48,S02,B-03,False,atta maggi|atta noodles|maggi atta
+SKU1024,Maggi Korean Spicy Noodles 75g,Maggi,Packaged Foods,75 g,40,40.0,34.86,24,S02,B-04,False,korean maggi|korean noodles|spicy noodles
+SKU1025,Sunfeast Yippee Magic Masala Noodles 70g,Sunfeast,Packaged Foods,70 g,15,15.0,12.93,48,S02,B-05,False,yippee|yippie|yipee noodles
+SKU1026,Kissan Fresh Tomato Ketchup 500g,Kissan,Packaged Foods,500 g,135,135.0,110.1,12,S02,B-06,False,ketchup|sauce|tomato sauce|kissan
+SKU1027,Kellogg's Corn Flakes 475g,Kellogg's,Packaged Foods,475 g,199,199.0,166.63,12,S02,B-07,False,cornflakes|corn flakes|kelloggs
+SKU1028,Saffola Oats 1kg,Saffola,Packaged Foods,1 kg,210,210.0,168.74,12,S02,B-08,False,oats|saffola oats|daliya oats
+SKU1029,MTR Rava Idli Mix 500g,MTR,Packaged Foods,500 g,130,130.0,105.6,12,S02,B-09,False,idli mix|rava idli|mtr
+SKU1030,Haldiram's Gulab Jamun Tin 1kg,Haldiram's,Packaged Foods,1 kg,225,225.0,192.29,12,S02,B-10,False,gulab jamun|mithai|sweets tin
+SKU1031,Ching's Schezwan Chutney 250g,Ching's,Packaged Foods,250 g,99,99.0,85.1,12,S02,B-11,False,schezwan|schezwan chutney|chings
+SKU1032,Amul Taaza Toned Milk 500ml,Amul,Dairy & Bakery,500 ml,28,28.0,24.57,24,S03,C (fridge)-01,True,doodh|milk|amul milk|taaza
+SKU1033,Amul Gold Full Cream Milk 500ml,Amul,Dairy & Bakery,500 ml,34,34.0,28.09,24,S03,C (fridge)-02,True,full cream milk|gold milk|amul gold
+SKU1034,Mother Dairy Classic Dahi 400g,Mother Dairy,Dairy & Bakery,400 g,50,50.0,41.48,12,S03,C (fridge)-03,True,dahi|curd|yogurt
+SKU1035,Amul Butter 100g,Amul,Dairy & Bakery,100 g,62,62.0,51.93,20,S03,C (fridge)-04,True,makhan|butter|amul butter
+SKU1036,Amul Cheese Slices 200g,Amul,Dairy & Bakery,200 g,140,140.0,114.12,10,S03,C (fridge)-05,True,cheese|cheese slice
+SKU1037,Amul Fresh Paneer 200g,Amul,Dairy & Bakery,200 g,95,95.0,76.99,10,S03,C (fridge)-06,True,paneer|cottage cheese
+SKU1038,Britannia Milk Bread 400g,Britannia,Dairy & Bakery,400 g,45,45.0,37.71,10,S03,C (fridge)-07,True,bread|double roti|white bread|milk bread
+SKU1039,Harvest Gold Brown Bread 400g,Harvest Gold,Dairy & Bakery,400 g,55,55.0,45.0,10,S03,C (fridge)-08,True,brown bread|atta bread
+SKU1040,Farm Fresh Eggs 6 pcs,Farm Fresh,Dairy & Bakery,6 pcs,48,48.0,40.97,10,S03,C (fridge)-09,True,anda|ande|eggs
+SKU1041,Coca-Cola 750ml,Coca-Cola,Beverages,750 ml,40,40.0,33.4,24,S03,D (cooler)-01,False,coke|coca cola|cold drink
+SKU1042,Thums Up 750ml,Thums Up,Beverages,750 ml,40,40.0,34.66,24,S03,D (cooler)-02,False,thums up|thumsup|thumbs up
+SKU1043,Sprite 750ml,Sprite,Beverages,750 ml,40,40.0,34.24,24,S03,D (cooler)-03,False,sprite|lemon soda
+SKU1044,Maaza Mango Drink 600ml,Maaza,Beverages,600 ml,40,40.0,33.0,24,S03,D (cooler)-04,False,maaza|mango drink|aam drink
+SKU1045,Frooti Mango Drink 600ml,Parle Agro,Beverages,600 ml,40,40.0,34.66,24,S03,D (cooler)-05,False,frooti|fruity
+SKU1046,Real Mixed Fruit Juice 1L,Dabur,Beverages,1 L,125,125.0,108.05,12,S03,D (cooler)-06,False,real juice|juice|mixed fruit juice
+SKU1047,Bisleri Mineral Water 1L,Bisleri,Beverages,1 L,20,20.0,16.62,12,S03,D (cooler)-07,False,paani|water|bisleri|mineral water
+SKU1048,Red Bull Energy Drink 250ml,Red Bull,Beverages,250 ml,125,125.0,102.88,24,S03,D (cooler)-08,False,red bull|redbull|energy drink
+SKU1049,Cadbury Bournvita 500g,Cadbury,Beverages,500 g,250,250.0,213.65,12,S03,D (cooler)-09,False,bournvita|health drink
+SKU1050,Horlicks Classic Malt 500g,Horlicks,Beverages,500 g,275,275.0,223.07,12,S03,D (cooler)-10,False,horlicks|horlix
+SKU1051,Parle-G Biscuits 250g,Parle,Biscuits & Snacks,250 g,25,25.0,20.4,48,S06,E-01,False,parle g|parleji|parle-g|glucose biscuit
+SKU1052,Parle-G Biscuits 800g,Parle,Biscuits & Snacks,800 g,85,85.0,68.05,12,S06,E-02,False,parle g family pack|bada parle g
+SKU1053,Britannia Good Day Cashew 200g,Britannia,Biscuits & Snacks,200 g,40,40.0,34.52,24,S06,E-03,False,good day|cashew biscuit
+SKU1054,Britannia Marie Gold 250g,Britannia,Biscuits & Snacks,250 g,35,35.0,29.86,24,S06,E-04,False,marie|marie gold
+SKU1055,Parle Hide & Seek 120g,Parle,Biscuits & Snacks,120 g,40,40.0,34.26,24,S06,E-05,False,hide and seek|chocolate chip biscuit
+SKU1056,Cadbury Oreo 120g,Cadbury,Biscuits & Snacks,120 g,35,35.0,30.19,24,S06,E-06,False,oreo
+SKU1057,Lay's Classic Salted 52g,Lay's,Biscuits & Snacks,52 g,20,20.0,16.73,30,S06,E-07,False,lays|chips|lays salted|yellow lays
+SKU1058,Lay's India's Magic Masala 52g,Lay's,Biscuits & Snacks,52 g,20,20.0,16.91,30,S06,E-08,False,magic masala|blue lays|lays masala
+SKU1059,Kurkure Masala Munch 90g,Kurkure,Biscuits & Snacks,90 g,20,20.0,16.22,30,S06,E-09,False,kurkure|kurkure masala
+SKU1060,Haldiram's Aloo Bhujia 200g,Haldiram's,Biscuits & Snacks,200 g,60,60.0,48.55,20,S06,E-10,False,bhujia|aloo bhujia|namkeen|haldiram
+SKU1061,Bingo Mad Angles 66g,Bingo,Biscuits & Snacks,66 g,20,20.0,17.07,30,S06,E-11,False,mad angles|bingo
+SKU1062,Cadbury Dairy Milk 50g,Cadbury,Biscuits & Snacks,50 g,45,45.0,37.7,36,S06,E-12,False,dairy milk|dairymilk|chocolate|cadbury
+SKU1063,Cadbury Dairy Milk Silk 60g,Cadbury,Biscuits & Snacks,60 g,95,95.0,80.3,24,S06,E-13,False,silk|dairy milk silk
+SKU1064,Nestle KitKat 4 Finger,Nestle,Biscuits & Snacks,37 g,30,30.0,25.84,36,S06,E-14,False,kitkat|kit kat
+SKU1065,Cadbury 5 Star 40g,Cadbury,Biscuits & Snacks,40 g,20,20.0,17.02,36,S06,E-15,False,5 star|five star|5star
+SKU1066,Cadbury Celebrations Gift Pack 140g,Cadbury,Biscuits & Snacks,140 g,200,200.0,168.86,12,S06,E-16,False,celebrations|gift pack|chocolate box
+SKU1067,Ferrero Rocher 16 pcs,Ferrero,Biscuits & Snacks,200 g,799,799.0,674.94,6,S06,E-17,False,ferrero|ferrero rocher|rocher
+SKU1068,Dettol Original Soap 125g,Dettol,Personal Care,125 g,55,55.0,45.34,36,S04,F-01,False,dettol soap|dettol sabun|sabun|soap
+SKU1069,Lifebuoy Total 10 Soap 125g,Lifebuoy,Personal Care,125 g,35,35.0,28.09,36,S04,F-02,False,lifebuoy|lifeboy
+SKU1070,Lux Soft Touch Soap 100g,Lux,Personal Care,100 g,40,40.0,33.4,36,S04,F-03,False,lux|lux soap
+SKU1071,Dove Cream Beauty Bar 100g,Dove,Personal Care,100 g,75,75.0,61.29,24,S04,F-04,False,dove|dove soap
+SKU1072,Colgate Strong Teeth 200g,Colgate,Personal Care,200 g,120,120.0,99.92,24,S04,F-05,False,colgate|toothpaste|manjan|paste
+SKU1073,Colgate MaxFresh 150g,Colgate,Personal Care,150 g,110,110.0,95.51,24,S04,F-06,False,maxfresh|colgate gel|blue colgate
+SKU1074,Pepsodent Germicheck 150g,Pepsodent,Personal Care,150 g,95,95.0,77.78,24,S04,F-07,False,pepsodent
+SKU1075,Clinic Plus Shampoo 175ml,Clinic Plus,Personal Care,175 ml,140,140.0,112.65,12,S04,F-08,False,clinic plus|shampoo
+SKU1076,Head & Shoulders Anti-Dandruff Shampoo 180ml,Head & Shoulders,Personal Care,180 ml,210,210.0,172.73,12,S04,F-09,False,head and shoulders|h&s|dandruff shampoo
+SKU1077,Parachute Coconut Oil 200ml,Parachute,Personal Care,200 ml,105,105.0,86.47,24,S04,F-10,False,nariyal tel|coconut oil|parachute
+SKU1078,Dabur Amla Hair Oil 180ml,Dabur,Personal Care,180 ml,95,95.0,81.03,24,S04,F-11,False,amla oil|amla tel|hair oil
+SKU1079,Gillette Guard Razor,Gillette,Personal Care,1 pc,35,35.0,29.56,24,S04,F-12,False,razor|gillette|shaving razor
+SKU1080,Whisper Choice Ultra 6 Pads,Whisper,Personal Care,6 pcs,50,50.0,43.14,24,S04,F-13,False,whisper|sanitary pads|pads
+SKU1081,Nivea Soft Cream 100ml,Nivea,Personal Care,100 ml,199,199.0,169.78,12,S04,F-14,False,nivea|cream|moisturiser
+SKU1082,Himalaya Neem Face Wash 100ml,Himalaya,Personal Care,100 ml,160,160.0,133.2,12,S04,F-15,False,face wash|facewash|himalaya|neem face wash
+SKU1083,Dettol Antiseptic Liquid 250ml,Dettol,Personal Care,250 ml,150,150.0,129.77,12,S04,F-16,False,dettol liquid|antiseptic|dettol
+SKU1084,Vicks VapoRub 50ml,Vicks,Personal Care,50 ml,160,160.0,130.14,12,S04,F-17,False,vicks|vaporub|balm
+SKU1085,Surf Excel Easy Wash 1kg,Surf Excel,Home Care,1 kg,140,140.0,112.25,12,S05,G-01,False,surf|surf excel|washing powder|detergent
+SKU1086,Surf Excel Matic Top Load 1kg,Surf Excel,Home Care,1 kg,240,240.0,193.73,12,S05,G-02,False,surf matic|matic|machine powder
+SKU1087,Surf Excel Bar 250g,Surf Excel,Home Care,250 g,38,38.0,32.6,24,S05,G-03,False,surf bar|surf excel bar|kapde ka sabun
+SKU1088,Tide Plus 1kg,Tide,Home Care,1 kg,125,125.0,104.62,12,S05,G-04,False,tide|tide powder
+SKU1089,Rin Detergent Bar 250g,Rin,Home Care,250 g,22,22.0,17.88,36,S05,G-05,False,rin|rin bar
+SKU1090,Vim Dishwash Bar 300g,Vim,Home Care,300 g,30,30.0,25.2,36,S05,G-06,False,vim|vim bar|bartan sabun
+SKU1091,Vim Dishwash Liquid 500ml,Vim,Home Care,500 ml,120,120.0,97.46,12,S05,G-07,False,vim liquid|dishwash liquid|bartan liquid
+SKU1092,Harpic Power Plus 500ml,Harpic,Home Care,500 ml,105,105.0,89.85,12,S05,G-08,False,harpic|toilet cleaner
+SKU1093,Lizol Floor Cleaner 500ml,Lizol,Home Care,500 ml,115,115.0,96.1,12,S05,G-09,False,lizol|floor cleaner|pocha liquid
+SKU1094,Colin Glass Cleaner 500ml,Colin,Home Care,500 ml,110,110.0,91.35,12,S05,G-10,False,colin|glass cleaner
+SKU1095,Good Knight Gold Flash Refill 45ml,Good Knight,Home Care,45 ml,85,85.0,70.05,24,S05,G-11,False,good knight|goodknight|mosquito refill|machhar
+SKU1096,All Out Ultra Refill 45ml,All Out,Home Care,45 ml,85,85.0,72.29,24,S05,G-12,False,all out|allout|mosquito liquid
+SKU1097,Hit Cockroach Spray 200ml,Hit,Home Care,200 ml,199,199.0,164.96,12,S05,G-13,False,hit|cockroach spray|keeda spray
+SKU1098,Odonil Air Freshener 50g,Odonil,Home Care,50 g,60,60.0,48.42,24,S05,G-14,False,odonil|room freshener
+SKU1099,Scotch-Brite Scrub Pad,Scotch-Brite,Home Care,1 pc,20,20.0,16.19,36,S05,G-15,False,scrubber|scotch brite|bartan scrub
+SKU1100,Cycle Pure Agarbatti,Cycle,Home Care,1 pack,50,50.0,43.85,24,S05,G-16,False,agarbatti|incense|dhoop|cycle agarbatti
+SKU1101,Ship Matchbox 10 Pack,Ship,Home Care,10 pcs,20,20.0,17.45,20,S05,G-17,False,machis|matchbox|tilli
+SKU1102,Ezee Garbage Bags Medium 30 pcs,Ezee,Home Care,30 pcs,99,99.0,84.74,12,S05,G-18,False,garbage bag|kachra bag|dustbin bag

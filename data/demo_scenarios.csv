@@ -1,0 +1,12 @@
+sku,product_name,on_hand_qty,on_order_qty,scenario,expected_bot_behaviour
+SKU1035,Amul Butter 100g,0,0,Out of stock,"Report 0 units, flag as out of stock, suggest reorder"
+SKU1001,Aashirvaad Whole Wheat Atta 5kg,3,0,"Low stock, fast mover","Flag low stock, suggest reorder with reasoning"
+SKU1021,Maggi 2-Minute Masala Noodles 70g,8,0,"Low stock, fast mover",Flag low stock; 'maggi' is ambiguous across 4 SKUs
+SKU1051,Parle-G Biscuits 250g,6,0,Low stock,Flag low stock; 'parle g' matches 2 pack sizes
+SKU1068,Dettol Original Soap 125g,2,0,Low stock,Flag low stock; 'dettol' matches soap and antiseptic liquid
+SKU1003,Fortune Sunflower Oil 1L,2,12,Low on shelf but already on order,Should NOT suggest a new order because stock + on order covers demand
+SKU1092,Harpic Power Plus 500ml,48,0,Overstock,Flag as overstocked (too many days of cover)
+SKU1050,Horlicks Classic Malt 500g,30,0,Overstock,"Flag as overstocked, no reorder"
+SKU1067,Ferrero Rocher 16 pcs,14,0,Dead stock,"No sales in 60+ days, suggest clearance, never suggest reorder"
+SKU1024,Maggi Korean Spicy Noodles 75g,,,New product,"Only 15 days of history, bot should warn the estimate is less reliable"
+SKU1048,Red Bull Energy Drink 250ml,,,Trending up,"7-day velocity much higher than 30-day, bot should mention the trend"

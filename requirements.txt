@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+ipykernel
+streamlit
+google-genai
+rapidfuzz
+python-dotenv

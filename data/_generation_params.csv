@@ -1,0 +1,103 @@
+sku,product_name,base_daily_demand,demand_flag,profile
+SKU1001,Aashirvaad Whole Wheat Atta 5kg,2.5,staple,normal
+SKU1002,Aashirvaad Whole Wheat Atta 10kg,0.8,staple,normal
+SKU1003,Fortune Sunflower Oil 1L,2.0,staple,normal
+SKU1004,Fortune Kachi Ghani Mustard Oil 1L,1.5,staple,normal
+SKU1005,Saffola Gold Oil 1L,0.6,staple,normal
+SKU1006,Tata Salt 1kg,3.0,staple,normal
+SKU1007,India Gate Basmati Rice 1kg,1.5,staple,normal
+SKU1008,Tata Sampann Toor Dal 1kg,1.2,staple,normal
+SKU1009,Tata Sampann Moong Dal 1kg,0.7,staple,normal
+SKU1010,Madhur Sugar 1kg,3.0,ganesh,normal
+SKU1011,Rajdhani Besan 500g,0.8,ganesh,normal
+SKU1012,Rajdhani Suji 500g,0.6,staple,normal
+SKU1013,Rajdhani Poha 500g,0.5,staple,normal
+SKU1014,Tata Tea Premium 250g,1.5,staple,normal
+SKU1015,Red Label Tea 250g,1.0,staple,normal
+SKU1016,Nescafe Classic Coffee 50g,0.5,none,normal
+SKU1017,Everest Garam Masala 100g,0.6,none,normal
+SKU1018,MDH Chana Masala 100g,0.4,none,normal
+SKU1019,Catch Turmeric Powder 100g,0.7,none,normal
+SKU1020,Everest Red Chilli Powder 100g,0.7,none,normal
+SKU1021,Maggi 2-Minute Masala Noodles 70g,6.0,none,normal
+SKU1022,Maggi 2-Minute Masala Noodles 4-Pack 280g,1.2,none,normal
+SKU1023,Maggi Atta Noodles 72g,0.5,none,normal
+SKU1024,Maggi Korean Spicy Noodles 75g,1.5,none,new
+SKU1025,Sunfeast Yippee Magic Masala Noodles 70g,2.0,none,normal
+SKU1026,Kissan Fresh Tomato Ketchup 500g,0.6,none,normal
+SKU1027,Kellogg's Corn Flakes 475g,0.4,none,normal
+SKU1028,Saffola Oats 1kg,0.3,none,normal
+SKU1029,MTR Rava Idli Mix 500g,0.2,none,normal
+SKU1030,Haldiram's Gulab Jamun Tin 1kg,0.3,rakhi,normal
+SKU1031,Ching's Schezwan Chutney 250g,0.3,none,normal
+SKU1032,Amul Taaza Toned Milk 500ml,12.0,none,normal
+SKU1033,Amul Gold Full Cream Milk 500ml,6.0,none,normal
+SKU1034,Mother Dairy Classic Dahi 400g,3.0,none,normal
+SKU1035,Amul Butter 100g,1.5,none,normal
+SKU1036,Amul Cheese Slices 200g,0.5,none,normal
+SKU1037,Amul Fresh Paneer 200g,1.2,none,normal
+SKU1038,Britannia Milk Bread 400g,4.0,none,normal
+SKU1039,Harvest Gold Brown Bread 400g,1.0,none,normal
+SKU1040,Farm Fresh Eggs 6 pcs,2.5,none,normal
+SKU1041,Coca-Cola 750ml,3.0,summer,normal
+SKU1042,Thums Up 750ml,3.0,summer,normal
+SKU1043,Sprite 750ml,2.0,summer,normal
+SKU1044,Maaza Mango Drink 600ml,2.0,summer,normal
+SKU1045,Frooti Mango Drink 600ml,1.5,summer,normal
+SKU1046,Real Mixed Fruit Juice 1L,0.6,summer,normal
+SKU1047,Bisleri Mineral Water 1L,6.0,summer,normal
+SKU1048,Red Bull Energy Drink 250ml,0.6,none,trending
+SKU1049,Cadbury Bournvita 500g,0.4,none,normal
+SKU1050,Horlicks Classic Malt 500g,0.3,none,normal
+SKU1051,Parle-G Biscuits 250g,5.0,none,normal
+SKU1052,Parle-G Biscuits 800g,0.6,none,normal
+SKU1053,Britannia Good Day Cashew 200g,1.5,none,normal
+SKU1054,Britannia Marie Gold 250g,1.5,none,normal
+SKU1055,Parle Hide & Seek 120g,1.0,none,normal
+SKU1056,Cadbury Oreo 120g,1.2,none,normal
+SKU1057,Lay's Classic Salted 52g,3.0,summer,normal
+SKU1058,Lay's India's Magic Masala 52g,3.5,summer,normal
+SKU1059,Kurkure Masala Munch 90g,3.0,none,normal
+SKU1060,Haldiram's Aloo Bhujia 200g,1.5,none,normal
+SKU1061,Bingo Mad Angles 66g,1.5,none,normal
+SKU1062,Cadbury Dairy Milk 50g,2.0,rakhi,normal
+SKU1063,Cadbury Dairy Milk Silk 60g,0.6,rakhi,normal
+SKU1064,Nestle KitKat 4 Finger,1.5,rakhi,normal
+SKU1065,Cadbury 5 Star 40g,1.5,none,normal
+SKU1066,Cadbury Celebrations Gift Pack 140g,0.4,rakhi,normal
+SKU1067,Ferrero Rocher 16 pcs,0.3,none,dead
+SKU1068,Dettol Original Soap 125g,1.5,none,normal
+SKU1069,Lifebuoy Total 10 Soap 125g,1.5,none,normal
+SKU1070,Lux Soft Touch Soap 100g,1.0,none,normal
+SKU1071,Dove Cream Beauty Bar 100g,0.6,none,normal
+SKU1072,Colgate Strong Teeth 200g,1.5,none,normal
+SKU1073,Colgate MaxFresh 150g,0.6,none,normal
+SKU1074,Pepsodent Germicheck 150g,0.4,none,normal
+SKU1075,Clinic Plus Shampoo 175ml,0.5,none,normal
+SKU1076,Head & Shoulders Anti-Dandruff Shampoo 180ml,0.4,none,normal
+SKU1077,Parachute Coconut Oil 200ml,0.8,none,normal
+SKU1078,Dabur Amla Hair Oil 180ml,0.5,none,normal
+SKU1079,Gillette Guard Razor,0.4,none,normal
+SKU1080,Whisper Choice Ultra 6 Pads,0.6,none,normal
+SKU1081,Nivea Soft Cream 100ml,0.3,none,normal
+SKU1082,Himalaya Neem Face Wash 100ml,0.4,none,normal
+SKU1083,Dettol Antiseptic Liquid 250ml,0.3,none,normal
+SKU1084,Vicks VapoRub 50ml,0.2,monsoon,normal
+SKU1085,Surf Excel Easy Wash 1kg,1.0,none,normal
+SKU1086,Surf Excel Matic Top Load 1kg,0.4,none,normal
+SKU1087,Surf Excel Bar 250g,1.0,none,normal
+SKU1088,Tide Plus 1kg,0.8,none,normal
+SKU1089,Rin Detergent Bar 250g,1.2,none,normal
+SKU1090,Vim Dishwash Bar 300g,2.0,none,normal
+SKU1091,Vim Dishwash Liquid 500ml,0.5,none,normal
+SKU1092,Harpic Power Plus 500ml,0.5,none,normal
+SKU1093,Lizol Floor Cleaner 500ml,0.5,none,normal
+SKU1094,Colin Glass Cleaner 500ml,0.2,none,normal
+SKU1095,Good Knight Gold Flash Refill 45ml,1.0,monsoon,normal
+SKU1096,All Out Ultra Refill 45ml,0.6,monsoon,normal
+SKU1097,Hit Cockroach Spray 200ml,0.3,none,normal
+SKU1098,Odonil Air Freshener 50g,0.3,none,normal
+SKU1099,Scotch-Brite Scrub Pad,1.0,none,normal
+SKU1100,Cycle Pure Agarbatti,1.0,ganesh,normal
+SKU1101,Ship Matchbox 10 Pack,1.0,none,normal
+SKU1102,Ezee Garbage Bags Medium 30 pcs,0.5,none,normal

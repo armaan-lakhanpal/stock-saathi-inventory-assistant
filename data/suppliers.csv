@@ -1,0 +1,7 @@
+supplier_id,supplier_name,supplies,lead_time_days,min_order_value_inr,phone
+S01,Gupta Grain & Staples Distributors,Staples,2,2000,+91-98100-11001
+S02,Shree Balaji FMCG Distributors,Packaged Foods,3,1500,+91-98100-11002
+S03,Fresh Dairy & Beverages Agency,"Dairy, Bakery & Beverages",1,1000,+91-98100-11003
+S04,Apex Personal Care Distributors,Personal Care,4,2500,+91-98100-11004
+S05,CleanHome Trading Co.,Home Care,5,2500,+91-98100-11005
+S06,Sweet & Snacks Wholesale,"Biscuits, Snacks & Chocolates",3,1500,+91-98100-11006
